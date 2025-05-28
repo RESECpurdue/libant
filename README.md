@@ -23,3 +23,5 @@ sudo adduser yourusername dialout
 
 ## Known bugs
 The usb driver has a bug which requires you to replug your ANT+ stick every time you run a demo script. So until we get that fixed, I suggest you stick to the serial driver, which is stable.
+
+## Test Update Commit
